@@ -14,7 +14,7 @@ def caesar(start_text, shift_amount, cipher_direction):
     
   print(f"Here's the {cipher_direction}d result: '{end_text}'")
 
-from caesarCypher_art import logo
+from caesar_cypher_art import logo
 print(logo)
  
 should_end = False
